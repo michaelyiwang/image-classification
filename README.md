@@ -58,8 +58,8 @@ Here's the training and validation performance over time:
 ---
 ## 🧪 Evaluation on the test set
 
-test_loss: 0.5033132433891296
-test_accuracy: 0.890999972820282
+- test_loss: 0.5033132433891296
+- test_accuracy: 0.890999972820282
 
 ---
 ## 🚀 Tech Stack
